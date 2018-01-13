@@ -34,6 +34,6 @@ Curriculum for learning Geodata Science (Spatial Data Science)
 1. [Geographic Data Science with PySAL and the pydata stack](https://github.com/darribas/gds_scipy16)
 2. [Geospatial Data with Open Source Tools in Python](https://github.com/kjordahl/SciPy-Tutorial-2015)
 3. [Combining satellite imagery and machine learning to predict poverty](https://github.com/nealjean/predicting-poverty)
-4. 
+4. [Processing a Petabyte of Planetary Pixels with Python ](https://www.youtube.com/watch?v=LXIzfO_jGZY)
 
 TBC 
