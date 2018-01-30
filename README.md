@@ -21,6 +21,7 @@ Curriculum for learning Geodata Science (Spatial Data Science)
 5. [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/) - Udemy - **Not Geo**
 6. [Statistics and Probability in Data Science using Python](https://www.edx.org/course/statistics-probability-data-science-uc-san-diegox-dse210x) Edx 
 7. [Machine Learning Fundamentals](https://www.edx.org/course/machine-learning-fundamentals-uc-san-diegox-dse220x)  Edx
+8. [CP255: Urban Informatics and Visualization](https://github.com/waddell/urban-informatics-and-visualization) **Geo**
 
 ## Advanced:
 1. [Spatial Data Science (SOCI 20253)](https://spatial.uchicago.edu/content/lectures-luc-anselin-uchicago) - Chicago University - **Geo**
